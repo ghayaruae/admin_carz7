@@ -1,0 +1,45 @@
+{
+
+    "PAGE 1" : "THIS IS START OF LOGIN PAGE'S LOCALIZATION",
+
+
+
+    "CarZ 7 Partners Control Panel" : "لوحة تحكم شركاء CarZ 7" ,
+    "Welcome Back !" : "! مرحبا بعودتك" ,
+    "Sign in to continue to Carz-7.": "Carz-7 سجّل الدخول للاستمرار إلى " ,
+    "Username" : "اسم المستخدم"  ,
+    "Forgot password?" : "نسيت كلمة المرور؟" ,
+    "Password" : "كلمة المرور" ,
+    "Remember me" : "تذكرني" ,
+    "Please Wait..." : "... الرجاء الانتظار" ,
+    "Sign In" : "تسجيل الدخول" ,
+    "Invalid username or password" : "اسم المستخدم أو كلمة المرور غير صالحة",
+    "Enter user name" : "أدخل اسم المستخدم" ,
+    "Enter password" : "أدخل كلمة المرور", 
+    
+    
+    
+    "PAGE 1 " : "THIS IS END OF LOGIN PAGE'S LOCALIZATION",
+
+
+    "PAGE 2" : "THIS IS START OF THE PRICE MANAGEMENT PAGE'S LOCALIZATION",
+
+
+    "Submit Your Pricing Structure Here." : ".قدم هيكل التسعير الخاص بك هنا" ,
+    "Price Management" : "إدارة الأسعار" , 
+    "Note* :" : ": *ملحوظة" , 
+    "Kindly provide your pricing details in Excel format." : "Excel يرجى تقديم تفاصيل التسعير الخاصة بك في تنسيق" ,
+    "Access Sample Pricing Guide" : "الوصول إلى دليل التسعير عينة" ,
+    "Drop files here or click to upload." : ".اسحب الملفات هنا أو انقر للتحميل" ,
+    "Preview.xlsx" : "xlsx.معاينة" ,
+    "Next" : "التالي",
+    "Are You Sure ?" : "هل أنت متأكد؟" ,
+    "Close" : "إغلاق" ,
+    "Save changes" : "حفظ التغييرات" ,
+
+
+    "PAGE 2 " : "THIS IS END OF THE PRICE MANAGEMENT PAGE'S LOCALIZATION"
+
+
+
+}

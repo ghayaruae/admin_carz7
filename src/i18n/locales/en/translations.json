@@ -1,0 +1,44 @@
+{
+
+    "PAGE 1 " : "THIS IS START OF LOGIN PAGE'S LOCALIZATION",
+
+
+
+   "CarZ 7 Partners Control Panel" : "CarZ 7 Partners Control Panel" ,
+   "Welcome Back !" : "Welcome Back !" ,
+   "Sign in to continue to Carz-7." : "Sign in to continue to Carz-7." , 
+   "Username" : "Username" ,
+   "Forgot password?" : "Forgot password?" , 
+   "Password" : "Password" ,
+   "Remember me" : "Remember me" , 
+   "Please Wait..." : "Please Wait..." ,
+   "Sign In" : "Sign In" ,
+   "Invalid username or password" : "Invalid username or password"  ,
+   "Enter user name" : "Enter user name" , 
+   "Enter password" : "Enter password" ,
+   
+
+
+   "PAGE 1" : "THIS IS END OF LOGIN PAGE'S LOCALIZATION",
+
+
+
+   "PAGE 2" : "THIS IS START OF THE PRICE MANAGEMENT PAGE'S LOCALIZATION",
+
+   
+
+   "Submit Your Pricing Structure Here." : "Submit Your Pricing Structure Here." ,
+   "Price Management" : "Price Management" ,
+   "Note* :" : "Note* :" ,
+   "Kindly provide your pricing details in Excel format." : "Kindly provide your pricing details in Excel format." ,
+   "Access Sample Pricing Guide" : "Access Sample Pricing Guide" ,
+   "Drop files here or click to upload." : "Drop files here or click to upload." ,
+   "Preview.xlsx" : "Preview.xlsx" ,
+   "Next" : "Next" ,
+   "Are You Sure ?" : "Are You Sure ?", 
+   "Close" : "Close" ,
+   "Save changes" : "Save changes" 
+
+
+
+}
